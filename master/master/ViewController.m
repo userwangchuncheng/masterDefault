@@ -16,6 +16,21 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+    NSLog(@"askldjlkjw");
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
