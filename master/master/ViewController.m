@@ -17,19 +17,19 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
-    NSLog(@"askldjlkjw");
+    NSLog(@"杨小杨是熊二");
+    NSLog(@"熊二是只🐷");
+    NSLog(@"从前有一只熊二");
+    NSLog(@"AKA potato bear two");
+    NSLog(@"走着走着");
+    NSLog(@"丢了");
+    NSLog(@"丢了");
+    NSLog(@"就这么丢了");
+
+    
+    
+   
+    //aklsdjaklwudjkawhdjkawjhkdwuajhknsjhkdnasjeaksjkadsnkjwasmkajws
 
     // Do any additional setup after loading the view, typically from a nib.
 }
