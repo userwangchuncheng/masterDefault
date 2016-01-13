@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+//    typedef NS_ENUM(NSUInteger, <#MyEnum#>) {
+//        <#MyEnumValueA#>,
+//        <#MyEnumValueB#>,
+//        <#MyEnumValueC#>,
+//    };
     // Do any additional setup after loading the view, typically from a nib.
 }
 
